@@ -1,19 +1,30 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# 🎓 Student Counter
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A simple, beginner-friendly web app that lets users count students and save the entries. Built with **HTML**, **CSS**, and **vanilla JavaScript**, this project is great for learning how to manipulate the DOM and handle events.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+---
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## 🔧 Features
 
-Happy Coding!
+- ➕ **Increment** student count
+- 💾 **Save** the current count
+- 📋 Displays a list of saved entries
+- 🧠 Simple, clean, and responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+---
+
+## 📁 File Structure
+student-counter/
+├── index.html # Main HTML file
+├── index.css # Styling
+├── index.js # JavaScript logic
+├── students.jpeg # Optional screenshot/image
+└── README.md # Project documentation
